@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.10.201909171046-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>WebContent/WEB-INF/notices-servlet.xml</config>
+		<config>src/com/naimur/spring/web/config/dao-contex.xml</config>
+		<config>src/com/naimur/spring/web/config/service-context.xml</config>
+		<config>src/com/naimur/spring/web/config/security-context.xml</config>
+		<config>test/com/naimur/spring/web/config/datasource.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
